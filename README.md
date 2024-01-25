@@ -1,7 +1,7 @@
 # Final Proyek Struktur Data
 <ul>
-  <li>Mata Kuliah: Struktur Data</li>
-  <li>Dosen Pengampu: <a href="https://github.com/Muhammad-Ikhwan-Fathulloh">Muhammad Ikhwan Fathulloh</a></li>
+  <li>Mata Kuliah : Struktur Data</li>
+  <li>Dosen Pengampu : <a href="https://github.com/Muhammad-Ikhwan-Fathulloh">Muhammad Ikhwan Fathulloh</a></li>
 </ul>
 
 ## Kelompok
