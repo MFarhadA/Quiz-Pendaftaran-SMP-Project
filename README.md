@@ -36,8 +36,8 @@
 ## Pembagian Tim
 <ul>
   <li>1. Coding  : Muhammad Farhad Ajilla</a></li>
-  <li>2. Mockup  : <a href="">Haris</a></li>
-  <li>3. Soal    : <a href="">Virgiawan</a></li>
+  <li>2. Konsep  : Haris</a></li>
+  <li>3. Soal    : Virgiawan</a></li>
 </ul>
 
 ## Demo Proyek
