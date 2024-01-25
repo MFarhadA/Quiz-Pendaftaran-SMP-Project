@@ -6,8 +6,8 @@
 
 ## Kelompok
 <ul>
-  <li>Kelompok  : {kelompok}</li>
-  <li>Proyek    : {proyek}</li>
+  <li>Kelompok  : 6 (enam)</li>
+  <li>Proyek    : Sistem Quiz (Pendaftaran SMP 911)</li>
   <li>Anggota   :</li>
   <ul>
     <li>Ketua      : <a href="https://github.com/MFarhadA">Muhammad Farhad Ajilla</a></li>
@@ -17,10 +17,10 @@
 </ul>
 
 ## Judul Proyek
-<p>Pendaftaraan SMP 911</p>
+<p>PENDAFTARAN SMP 911</p>
 
 ## Penjelasan Proyek
-<p>Ini adalah proyek</p>
+<p>Sebuah program atau proyek tugas besar untuk mata kuliah Struktur Data. Pendaftaran murid baru menjadi tema proyek kami karena sistem quiz merupakan pilihan kami untuk tugas besar kali ini.</p>
 
 ## Komponen Proyek
 <p>Komponen struktur data yang dipakai di dalam proyek ini antara lain:</p>
