@@ -11,8 +11,8 @@
   <li>Anggota   :</li>
   <ul>
     <li>Ketua      : <a href="https://github.com/MFarhadA">Muhammad Farhad Ajilla</a></li>
-    <li>Anggota 1  : <a href="">Haris</a></li>
-    <li>Anggota 2  : <a href="">Virgiawan</a></li>
+    <li>Anggota 1  : <a href="https://github.com/harisnp10">Haris Nurpazri</a></li>
+    <li>Anggota 2  : <a href="">Virgiawan Akbar Faturahman</a></li>
   </ul>
 </ul>
 
@@ -36,8 +36,8 @@
 ## Pembagian Tim
 <ul>
   <li>1. Coding  : Muhammad Farhad Ajilla</a></li>
-  <li>2. Konsep  : Haris</a></li>
-  <li>3. Soal    : Virgiawan</a></li>
+  <li>2. Konsep  : Haris Nurpazri</a></li>
+  <li>3. Soal    : Virgiawan Akbar Faturahman</a></li>
 </ul>
 
 ## Demo Proyek
