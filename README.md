@@ -7,7 +7,7 @@
 ## Kelompok
 <ul>
   <li>Kelompok  : 6 (enam)</li>
-  <li>Proyek    : Sistem Quiz (Pendaftaran SMP 911)</li>
+  <li>Proyek    : Pendaftaran SMP 911</li>
   <li>Anggota   :</li>
   <ul>
     <li>Ketua      : <a href="https://github.com/MFarhadA">Muhammad Farhad Ajilla</a></li>
