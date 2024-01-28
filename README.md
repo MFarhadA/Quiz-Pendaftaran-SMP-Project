@@ -42,6 +42,6 @@
 
 ## Demo Proyek
 <ul>
-  <li>Github: <a href="">Github</a></li>
-  <li>Youtube: <a href="">Youtube</a></li>
+  <li>Github: <a href="https://github.com/MFarhadA/Quiz-Pendaftaran-SMP-Project">Github</a></li>
+  <li>Youtube: <a href="https://youtu.be/vBgtA2vCRHg?feature=shared">Youtube</a></li>
 </ul>
