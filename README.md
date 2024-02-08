@@ -20,7 +20,18 @@
 <p>PENDAFTARAN SMP 911</p>
 
 ## Penjelasan Proyek
-<p>Sebuah program atau proyek tugas besar untuk mata kuliah Struktur Data. Pendaftaran murid baru menjadi tema proyek kami karena sistem quiz merupakan pilihan kami untuk tugas besar kali ini.</p>
+<p>Program yang kami buat untuk memenuhi tugas besar Struktur Data adalah sebuah sistem seleksi pendaftaran masuk SMP 911 dengan sebuah Aplikasi QUIZ.</p>
+<p>Berikut keterangan proyek :</p>
+<ul>
+  <li>Sistem soal dengan mencantumkan 4 paket soal didalam sistem aplikasi</li>
+  <li>Peserta yang melakukan tes yaitu 3 orang peserta</li>
+  <li>Urutan pemilihan paket soal berdasarkan gelombang yaitu dari gelombang 1 sampai 3</li>
+  <li>Setiap paket soal terdiri dari 5 nomor</li>
+  <li>Sistem pengisian ujian yaitu dengan urutan berdasarkan siswa sesuai gelombang dan paket yang dipilih</li>
+  <li>Nilai akan muncul setelah pengisian semua soal dengan bobot nilai per nomor yaitu 20</li>
+  <li>Siswa yang lolos yaitu dengan bobot nilai minimal 75 dan apabila kurang dari 75 dinyatakan tidak lolos</li>
+  <li>Diakhir program akan memunculkan urutan ranking yang diraih setiap siswa</li>
+</ul>
 
 ## Komponen Proyek
 <p>Komponen struktur data yang dipakai di dalam proyek ini antara lain:</p>
