@@ -12,7 +12,7 @@
   <ul>
     <li>Ketua      : <a href="https://github.com/MFarhadA">Muhammad Farhad Ajilla</a></li>
     <li>Anggota 1  : <a href="https://github.com/harisnp10">Haris Nurpazri</a></li>
-    <li>Anggota 2  : <a href="">Virgiawan Akbar Faturahman</a></li>
+    <li>Anggota 2  : <a href="https://github.com/Virgiawanakbar">Virgiawan Akbar Faturahman</a></li>
   </ul>
 </ul>
 
